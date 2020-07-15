@@ -6,17 +6,18 @@
 This Xcode project is used to create an iOS app which displays current exchange rates in USD from other currencies. The rates come from https://openexchangerates.org. The data is updated hourly.
 
 **How to Use the App:** \
-The app runs with sample data. Get an App ID from openexchangerates.org get current currency data. Add the App ID to the AppID.swift file. 
+The app runs with sample data. Get an App ID from openexchangerates.org for current data. Add the App ID to the AppID.swift file. 
 
 
 <img src="GitHub-Images/ExchangeRates.gif" width="300">
 
 **Technical Info:** \
-Xcode12 project written in Swift 5 for iOS
-URLSession, JSONDecoder, Decodable, Date/Calendar components, Timer,
+Xcode12 project written in Swift 5 for iOS\
+URLSession, JSONDecoder, Decodable, Date/Calendar components, Timer,\
 Refresh Controls, Tableview, Tableview Cell Styles, Storyboards
 
 **See Also:** \
+[Quickies - a variety of example iOS apps](https://github.com/PepperoniJoe/Quickies)\
  [Make Icons Swiftly - used to generate app icon sets
  ](https://github.com/PepperoniJoe/Make-Icons-Swiftly)
 
