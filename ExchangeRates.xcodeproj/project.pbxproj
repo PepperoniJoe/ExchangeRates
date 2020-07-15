@@ -8,9 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		932D8A3924BEA24F000BB1D0 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 932D8A3824BEA24F000BB1D0 /* LICENSE */; };
-		932D8A3B24BEA256000BB1D0 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 932D8A3A24BEA256000BB1D0 /* README.md */; };
 		932D8A3E24BEA6C7000BB1D0 /* ExchangeRates.gif in Resources */ = {isa = PBXBuildFile; fileRef = 932D8A3D24BEA6C7000BB1D0 /* ExchangeRates.gif */; };
 		937C9C6820E0094100D18C30 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937C9C6720E0094100D18C30 /* FirstViewController.swift */; };
+		938F158C24BEC78F0003E2ED /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 938F158B24BEC78F0003E2ED /* README.md */; };
 		93A6F5B822B42156005BDD67 /* rateData.json in Resources */ = {isa = PBXBuildFile; fileRef = 93A6F5B722B42155005BDD67 /* rateData.json */; };
 		93A6F5BC22B4278C005BDD67 /* Double+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93A6F5BB22B4278C005BDD67 /* Double+Ext.swift */; };
 		93A6F5C422B42E72005BDD67 /* RateResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93A6F5C322B42E72005BDD67 /* RateResponse.swift */; };
@@ -25,9 +25,9 @@
 
 /* Begin PBXFileReference section */
 		932D8A3824BEA24F000BB1D0 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		932D8A3A24BEA256000BB1D0 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../Readme/README.md; sourceTree = "<group>"; };
 		932D8A3D24BEA6C7000BB1D0 /* ExchangeRates.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ExchangeRates.gif; sourceTree = "<group>"; };
 		937C9C6720E0094100D18C30 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		938F158B24BEC78F0003E2ED /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		93A6F5B722B42155005BDD67 /* rateData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = rateData.json; sourceTree = "<group>"; };
 		93A6F5BB22B4278C005BDD67 /* Double+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Double+Ext.swift"; sourceTree = "<group>"; };
 		93A6F5C322B42E72005BDD67 /* RateResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RateResponse.swift; sourceTree = "<group>"; };
@@ -126,7 +126,7 @@
 			children = (
 				932D8A3C24BEA6A7000BB1D0 /* GitHub-Images */,
 				932D8A3824BEA24F000BB1D0 /* LICENSE */,
-				932D8A3A24BEA256000BB1D0 /* README.md */,
+				938F158B24BEC78F0003E2ED /* README.md */,
 				93C46E3D20DB344500562F9F /* ExchangeRates */,
 				93C46E3C20DB344500562F9F /* Products */,
 			);
@@ -214,10 +214,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				932D8A3B24BEA256000BB1D0 /* README.md in Resources */,
 				93C46E4920DB344B00562F9F /* LaunchScreen.storyboard in Resources */,
 				932D8A3E24BEA6C7000BB1D0 /* ExchangeRates.gif in Resources */,
 				93C46E4620DB344B00562F9F /* Assets.xcassets in Resources */,
+				938F158C24BEC78F0003E2ED /* README.md in Resources */,
 				93C46E4420DB344500562F9F /* table.storyboard in Resources */,
 				93A6F5B822B42156005BDD67 /* rateData.json in Resources */,
 				932D8A3924BEA24F000BB1D0 /* LICENSE in Resources */,
