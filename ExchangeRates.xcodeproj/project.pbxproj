@@ -61,6 +61,14 @@
 			path = "GitHub-Images";
 			sourceTree = "<group>";
 		};
+		938F158A24BEABEC0003E2ED /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				93C46E4520DB344B00562F9F /* Assets.xcassets */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
 		93A6F5BD22B42807005BDD67 /* Storyboards */ = {
 			isa = PBXGroup;
 			children = (
@@ -109,7 +117,6 @@
 			children = (
 				93C46E4A20DB344B00562F9F /* Info.plist */,
 				93C46E3E20DB344500562F9F /* AppDelegate.swift */,
-				93C46E4520DB344B00562F9F /* Assets.xcassets */,
 			);
 			path = Root;
 			sourceTree = "<group>";
@@ -138,11 +145,12 @@
 			children = (
 				93A6F5C522B434C6005BDD67 /* AppID.swift */,
 				93A6F5C222B4294D005BDD67 /* Root */,
-				93A6F5C122B428E8005BDD67 /* Utility */,
 				93A6F5BE22B42836005BDD67 /* View Controllers */,
-				93A6F5C022B42880005BDD67 /* Model */,
+				93A6F5C122B428E8005BDD67 /* Utility */,
 				93A6F5BD22B42807005BDD67 /* Storyboards */,
+				93A6F5C022B42880005BDD67 /* Model */,
 				93A6F5BF22B42859005BDD67 /* Example Data */,
+				938F158A24BEABEC0003E2ED /* Assets */,
 			);
 			path = ExchangeRates;
 			sourceTree = "<group>";
