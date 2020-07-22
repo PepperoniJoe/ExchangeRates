@@ -12,7 +12,7 @@ The app runs with sample data. Get an App ID from openexchangerates.org for curr
 <img src="GitHub-Images/ExchangeRates.gif" width="300">
 
 **Technical Info:** \
-Xcode12 project written in Swift 5 for iOS\
+Xcode12 project written in Swift 5 for iOS 14\
 URLSession, JSONDecoder, Decodable, Date/Calendar components, Timer,\
 Refresh Controls, Tableview, Tableview Cell Styles, Storyboards
 
